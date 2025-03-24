@@ -1,0 +1,16 @@
+In Home.jsx
+Line 152
+Replace{examParemters.course_name + " (" + examParemters.course_code + ")"}
+to properly display course_name and Course_code
+
+Line 248 
+Replace {examParemters.instructions} 
+to properly display exam's instructions
+
+In Question.jsx
+Remainder!!!!!!!!!!!!!!!!
+In case you didn't already do it
+Line 208
+subheader={'( ' + question.weight + ' Points' + ' )'}
+Replace question.weight with correct name to properly display the weights of each question
+
